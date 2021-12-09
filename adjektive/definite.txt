@@ -1,0 +1,4 @@
+Nominative , der gute Mann        , die gute Frau      , das gutes Buch    , die guten Bücher
+Accusative , den guten Mann       , die gute Frau      , das gutes Buch    , die guten Bücher
+Dative     , dem guten Mann       , der guten Frau      , dem guten Buch   , den guten Büchern 
+Genitive   , des guten Mannes     , des guten Frau      , des guten Buches , der guten Bücher 

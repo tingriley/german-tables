@@ -1,0 +1,4 @@
+Nominative,	mein guter Mann,		meine gute Frau,	mein gutes Buch,		meine guten Bücher
+Accusative,	mein guten Mann,		meine gute Frau,	mein gutes Buch,		meine guten Bücher
+Dative,		meinem guten Mann,		meiner guten Frau,	meinem guten Buch,		meinen guten Büchern
+Genitive,	meines guten Mannes,	meiner guten Frau,	meines guten Buches,	meiner guten Bücher
