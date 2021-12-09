@@ -1,10 +1,13 @@
 #!/usr/bin/python3
+import pdfkit
 from prettytable import PrettyTable
-wf = open("adjektive.html", "w", encoding='UTF-8')
-wf.write("<html><head><link rel=\"stylesheet\" href=\"style.css\"></head><body>")
 
 
-def create_table(filename, wf, name):
+outstring = "<html><head><meta charset=\"utf-8\"><link rel=\"stylesheet\" href=\"style.css\"></head><body>"
+
+
+
+def create_table(filename, name):
 	x = PrettyTable(["", "Masculine", "Feminine", "Neuter", "Plural"])
 	lines = []
 	with open(filename) as rf:
@@ -20,16 +23,22 @@ def create_table(filename, wf, name):
 	tmp = html.replace("<table>", '')
 	tmp = "<table><caption>"+ name + "</caption>" + tmp
 
-	wf.write(tmp)
-	wf.write("<br>")
+	global outstring 
+	outstring+= tmp 
+	outstring += "<br>"
+
+
 	rf.close()
 
 
-create_table('indefinite.txt', wf, "Indefinite Article")
-create_table('definite.txt', wf, "Definite Article")
-create_table('no.txt', wf, "No Article")
+create_table('indefinite.txt', "Indefinite Article")
+create_table('definite.txt', "Definite Article")
+create_table('no.txt', "No Article")
 
+css = 'style.css'
+outstring += "</body></html>"
 
-wf.write("</body></html>")
-wf.close()
-
+try:
+	pdfkit.from_string(outstring, 'adjektive.pdf', css = css)
+except:
+	pass
