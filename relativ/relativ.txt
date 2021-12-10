@@ -1,0 +1,4 @@
+  Nominative , der     , die   , das    , die
+  Accusative , den     , die   , das    , die
+  Dative     , dem     , der   , dem    , denen
+  Genitive   , dessen  , deren , dessen  , deren
