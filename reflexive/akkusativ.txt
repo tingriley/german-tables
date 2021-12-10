@@ -1,0 +1,76 @@
+sich duschen,			shower        
+sich waschen,			wash oneself
+sich anziehen,			get dressed/dress oneself  
+sich ausziehen,			undress oneself
+sich baden,			    bath oneself
+sich befinden,			be located
+sich beschweren (über),	complain		
+sich freuen,			look forward to
+sich fühlen,			feel
+sich informieren,	    inform oneself
+sich interessieren,		be interested in
+sich kämmen,			comb
+sich legen,             lie
+sich rasieren,			shave
+sich setzen,			sit
+sich stellen,			stand
+sich treffen,			meet 
+sich verletzen,			injure oneself
+sich verabschieden,		say goodbye	
+sich vorstellen,		introduce oneself	
+sich ändern,            change
+sich anmelden,          register
+sich anschauen,         look at oneself
+sich anschnallen,       fasten
+sich ärgern,            be annoyed
+sich bedanken,          thank
+sich beeilen,           hurry
+sich bewegen,           move
+sich bewerben,          apply
+sich entscheiden,       decide
+sich entschuldigen,     apologise
+sich erholen,           relax
+sich hinlegen,          lie down
+sich hinsetzen,         sit down
+sich irren ,            mistaken
+sich konzentrieren,     konzentrieren
+sich trennen (von),     break up
+sich verirren ,         get lost
+sich verlieben,         fall in love
+sich amüsieren ,        enjoy oneself
+sich anfühlen ,         feel 
+sich aufregen ,         work oneself up
+sich auskennen ,        be well informed
+sich ausruhen ,         have a rest
+sich ausweisen ,        identify oneself
+sich beruhigen ,        calm oneself
+sich beschäftigen (mit), deal with
+sich einschreiben ,     register
+sich entschließen ,     decide
+sich entwickeln ,       develop
+sich erkälten ,         catch a cold
+sich erkundigen ,       find out
+sich fortbilden ,       continue one’s education
+sich fragen ,           wonder
+sich fürchten ,         be afraid
+sich langweilen,        get bored
+sich melden,            register
+sich scheiden lassen,   divorce
+sich täuschen,          make a mistake
+sich übergeben,         vomit
+sich verabreden,        make an appointment
+sich verändern ,        change
+sich verfahren,         get lost
+sich verlassen (auf),   rely on
+sich verstecken,        hide
+sich verteidigen,       defend oneself
+sich weiterbilden,      continue one’s education
+sich wundern,           be surprised
+sich vorbereiten,       prepare
+sich beherrschen,       control oneself
+sich einsetzen,         campaign
+sich ereignen,          occur
+sich gedulden,          be patient
+sich schämen,           feel ashamed 
+sich sehnen (nach) ,    yearn
+sich trauen,            have the courage to
