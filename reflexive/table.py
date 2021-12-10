@@ -32,7 +32,7 @@ def create_table(filename, name):
 
 
 
-create_table('akkusativ.txt', "reflexive verbs in accusative")
+create_table('akkusativ.txt', "German reflexive verbs in accusative")
 
 css = 'style.css'
 outstring += "</body></html>"
@@ -43,7 +43,7 @@ except:
 
 
 outstring = "<html><head><meta charset=\"utf-8\"><link rel=\"stylesheet\" href=\"style.css\"></head><body>"
-create_table('dativ.txt', "reflexive verbs in dativ")
+create_table('dativ.txt', "German reflexive verbs in dativ")
 
 css = 'style.css'
 outstring += "</body></html>"

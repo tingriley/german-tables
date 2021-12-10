@@ -32,7 +32,7 @@ def create_table(filename, name):
 
 
 
-create_table('relativ.txt', "relative pronoun")
+create_table('relativ.txt', "German relative pronouns")
 
 css = 'style.css'
 outstring += "</body></html>"

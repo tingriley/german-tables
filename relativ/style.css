@@ -13,13 +13,13 @@ table {
 
 
 thead tr{
-    background-color: #009879;
+    background-color: #60a4f7;
     color: #ffffff;
     text-align: left;
 }
 th{
 
-    background-color: #009879;
+    background-color: #60a4f7;
     color: #ffffff;
 }
 
@@ -29,7 +29,7 @@ th,
 }
 
 caption {
-  color: #009879;
+  color: #60a4f7;
   font-weight: bold;
   font-size: 14pt
 
@@ -45,11 +45,11 @@ tbody tr:nth-of-type(even) {
 }
 
 tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #60a4f7;
 }
 
 tbody tr.active-row {
     font-weight: bold;
-    color: #009879;
+    color: #60a4f7;
 }
 
